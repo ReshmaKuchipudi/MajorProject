@@ -1,0 +1,47 @@
+
+					CHANNEL ESTIMTION USING MIMO-OFDM
+
+		Channel estimation is a challenging problem in wireless communications. 
+	Transmitted signals are typically reflected and scattered, arriving at the receiver along multiple paths. 
+	When these paths have similar delays, they add either constructively or destructively, giving rise to fading.
+	 When these paths have very different delays, they appear as signal echoes. 
+	Due to the mobility of the transmitter, the receiver, or the scattering objects, the channel changes over time.
+		Channel estimation plays an important part in an OFDM system. It is used for increasing the capacity of
+	 orthogonal frequency division multiple access (OFDMA) systems by improving the system performance in terms of bit error rate.
+	As symbols travel, they will be attenuated, usually by different amounts throughout their spectrum, due to range and 
+	to multipath effects. So, channel estimation is required to compensate for the distortion introduced in the symbols, as they
+	 travel through the channel, and to take into account SNR(Signal to Noise Ratio).
+		Recent mobile telecommunication systems used MIMO collective with OFDM which is well known as MIMO-OFDM, to offer robustness and 
+	higher spectrum efficiency.The important challenge in the scenario is to achieve accurate channel estimation to identify the symbols, once the receiver must
+	have the channel state info to balance and process the received signal.In this paper, we are going to achieve the channel estimation with minimum error bit
+	rate.The performance evolution is carried out with matlab simulation.
+
+
+	Open:As part of my project ,Channel estimation in wireless communication b/w the base station and user euipment.To implement my idea we chose matlab 
+	simulation tool over the other tools since it is the tool of choice for high production,research development and analysis.Matlab features a family of application
+	specific solutions called toolboxes.
+	First we need to search for the toolbox which we are going to use.If it is not available we need to install ,after that we need to build the network of using
+	Specified number of base stations and mobiles.
+	When the data is transmitting ,Transmitted signals are typically reflected and scattered, arriving at the receiver along multiple paths. As symbols travel,
+	 they will be attenuated, usually by different amounts throughout their spectrum, due to range and to multipath effects.
+	So,we need to estimate the channel Whether the data.
+	
+	Research	Papers:
+	--->Performance bounds for MIMO-OFDM channel estimation......
+	--->Study and analysis of 
+
+	sei.hub.se
+	sei.hub.tw
+
+	
+	
+
+	
+
+	
+	
+
+
+
+
+	We are going to use LTE toolbox,
