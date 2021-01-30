@@ -11,14 +11,12 @@ for k=1:length(SNRdB)
     Txbits=sqrt(SNR)*(2*bits-1);%transmission bits
     Rxbits=Txbits+chNoise;%received bits
     Decodebits=((real(Rxbits))>=0);%extracting real part 
-    BER(k)=sum(Decodebits~=bits)/blocklength;%bit error rate
-    
-    
+    BER(k)=sum(Decodebits~=bits)/blocklength;%bit error rate   
 end
-
-semilogy(SNRdB,BER,'bs','LineWidth',2.0);%graph drawn b/w signal to noise ratio and bit error rate
+%graph drawn b/w signal to noise ratio and bit error rate
+semilogy(SNRdB,BER,'bs','LineWidth',2.0);
 hold on;%to draw another line in the same graph
-semilogy(SNRdB,0.5*erfc(sqrt(10.^(SNRdB/10))/sqrt(2)),'r-.','LineWidth',2.0);%graph drwan b/w signal to noise ratio and erfc
+semilogy(SNRdB,0.5*erfc(sqrt(10.^(SNRdB/10))/sqrt(2)),'r-.','LineWidth',2.0);%graph drwan b/w signal to noise ratio and erfc with respect to Thoery
 axis on;
 grid on;
 legend('AWGN','Theory')
