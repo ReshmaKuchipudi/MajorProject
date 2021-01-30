@@ -1,3 +1,4 @@
+  RESHMA:
 1. Research on an Iterative Algorithm of LS Channel Estimation in MIMO OFDM Systems
       Author         :  Yantao Qiao, Songyu Yu, Pengcheng Su, and Lijun Zhan
       Journal        : Transactions on Broadcasting
@@ -41,4 +42,104 @@
                       improvement in the performance of OFDM system using Weiner filter estimation.
      Graphs          :
                       NO GRAPH
+   
+   BHARGAVI:
+ 1.
+    TITLE:  
+	Channel Estimation Techniques in MIMO-OFDM LTE System
+    AUTHORS:
+                 P.Venkateswarlu, R.Nagendhra
+    JOURNAL:
+	Journal of Engineering research and Application
+    FINDINGS:
+	1.In this paper, the basic concepts of OFDM, MIMO systems are addressed        2.The various channel estimation techniques
+	such as training based, blind channel, semi-blind
+	channel based algorithms are discussed. Also
+	different optimization techniques, such as DecisionDirected Channel Estimation Implementation for
+	Spectral Efficiency Improvement in Mobile MIMOOFDM, Adaptive Channel Estimation Techniques for MIMO-OFDM Systems are reviewed for training
+	based channel estimation algorithms.
+ 
+    PARAMETERS:
+	Spectral Efficiency, Channel State
+	information, Pilot Carriers,MMSE(Minimum Mean Squared Error)
+    
+    GRAPHS:
+	No Graph
+
+    ADVANTAGES:
+
+    LIMITATIONS:
+
+
+
+
+2.
+    TITLE:  
+	Channel estimation for LTE downlink receiver System performance
+    AUTHORS:
+                 Prabhakaran N, Siva Kannan N, Dennilo Fernandes J, Thirugnanan G
+    JOURNAL:
+	International Journal of Engineering and Technology
+    FINDINGS:
+	1.The performance of channel estimation techniques for LTEdownlink receiver system based on the 10/20MHz bandwidth are
+	simulated in this model2.n AWGN channel performances is better as compared
+	to VA120 channel then higher order modulation energy
+	consumption is less as compare in lower order modulation.
+ 
+    PARAMETERS:
+	BER,Eb/N0
+
+    GRAPHS:
+	The graph is drawn between SNR(dB) and BER.
+    ADVANTAGES:
+	The high information rates and the high limit can be accomplished
+
+    LIMITATIONS:
+
+
+3.
+    TITLE:  
+	Comparision between performances of Channel estimation techniques for CP-LTE and ZP-LTE downlink systems
+    AUTHORS:
+                 Abdul Hakim khlifi, Ridha Bouallegue
+    JOURNAL:
+	Internal Journal of computer networks and communications
+    FINDINGS:
+	1.In terms of MSE,
+	channel estimation techniques in the two systems show same performances but only for low
+	SNR values. For high SNR values, channel estimators are better for CP-LTE Downlink systems
+ 
+    PARAMETERS:
+	LTE Bandwidth, Number of used subcarriers, Number of transmit antenna, Number of Receive antenna, Modulation scheme(QPSK), Channel Model
+    
+    GRAPHS:
+	The graph is drawn between SNR and BER
+
+    ADVANTAGES:
+	ZP-LTE has higher power efficiency when compared to CP-LTE
+
+    LIMITATIONS:
+	Simulations results show that although ZP-LTE systems outperform CP-LTE Downlink systems in terms of power efficiency, the CP-LTE systems show better performance than ZP-LTE systems and especially for high SNR values
+
+
+4.
+    TITLE:  
+	An Efficient pilot carrier pilot estimation using genetic algorithm in 4G MIMO-OFDM System 
+    AUTHORS:
+                 R S Ganesh, J Jayakumari
+    JOURNAL:
+	ARPN journal of Engineering and Applies Sciences
+    FINDINGS:
+	1. An Efficient GA based optimised channel estimation for 4g 2x2 MIMO-OFDM system is proposed.2.Implementation of LS,MMSE,DFT channel estimations and their optimizations using GA has been done with the help of Matlab3.The simulation results show that MSE of GAoptimized DFT-LS channel estimation is 1.0% lesser than
+	DFT-LS estimation and the GA-optimized DFT-MMSE
+	estimation has less 0.21% MSE than DFT-MMSE
+	estimation.4.Minimize the noise levels at receiver side. and MSE.
+ 
+    PARAMETERS:
+	FFT Size,No of Symbols,Modulation,No of Pilots,Channel
+    GRAPHS:
+	The graph is drawn between SNR(dB) and MSE(Mean Sqaured Error)
+
+    ADVANTAGES:
+	Discrete Fourier Transform (DFT)-based channel estimation is introduced to minimize the receiver noise interference which cannot be possible in the LS and MMSE techniques
 
