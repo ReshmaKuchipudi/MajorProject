@@ -122,24 +122,4 @@
 	Simulations results show that although ZP-LTE systems outperform CP-LTE Downlink systems in terms of power efficiency, the CP-LTE systems show better performance than ZP-LTE systems and especially for high SNR values
 
 
-4.
-    TITLE:  
-	An Efficient pilot carrier pilot estimation using genetic algorithm in 4G MIMO-OFDM System 
-    AUTHORS:
-                 R S Ganesh, J Jayakumari
-    JOURNAL:
-	ARPN journal of Engineering and Applies Sciences
-    FINDINGS:
-	1. An Efficient GA based optimised channel estimation for 4g 2x2 MIMO-OFDM system is proposed.2.Implementation of LS,MMSE,DFT channel estimations and their optimizations using GA has been done with the help of Matlab3.The simulation results show that MSE of GAoptimized DFT-LS channel estimation is 1.0% lesser than
-	DFT-LS estimation and the GA-optimized DFT-MMSE
-	estimation has less 0.21% MSE than DFT-MMSE
-	estimation.4.Minimize the noise levels at receiver side. and MSE.
- 
-    PARAMETERS:
-	FFT Size,No of Symbols,Modulation,No of Pilots,Channel
-    GRAPHS:
-	The graph is drawn between SNR(dB) and MSE(Mean Sqaured Error)
-
-    ADVANTAGES:
-	Discrete Fourier Transform (DFT)-based channel estimation is introduced to minimize the receiver noise interference which cannot be possible in the LS and MMSE techniques
 
