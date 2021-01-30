@@ -3,10 +3,10 @@
       Author         :  Yantao Qiao, Songyu Yu, Pengcheng Su, and Lijun Zhan
       Journal        : Transactions on Broadcasting
       Parameters     : AWGN, M transmit antennas, 1 receive antenna, SNR, ICI, MSE
-      FINDINGS       :
+      Findings       :
                       •	Reduce AWGN and ICI significantly, this algorithm has improved the performance of MIMO OFDM systems in mobile communications.
                       •	An iterative LS channel estimation algorithm for MIMO-OFDM systems was proposed.
-      GRAPHS          :
+      Graphs          :
                 In this, the graph is drawn between SNR(dB) which is Signal-to-Noise Ratio and MSE(Mean Square Error) which represents the increasing SNR(dB) 
                 results in decreasing MSE.
                 
@@ -44,82 +44,41 @@
                       NO GRAPH
    
    BHARGAVI:
- 1.
-    TITLE:  
-	Channel Estimation Techniques in MIMO-OFDM LTE System
-    AUTHORS:
-                 P.Venkateswarlu, R.Nagendhra
-    JOURNAL:
-	Journal of Engineering research and Application
-    FINDINGS:
-	1.In this paper, the basic concepts of OFDM, MIMO systems are addressed        2.The various channel estimation techniques
-	such as training based, blind channel, semi-blind
-	channel based algorithms are discussed. Also
-	different optimization techniques, such as DecisionDirected Channel Estimation Implementation for
-	Spectral Efficiency Improvement in Mobile MIMOOFDM, Adaptive Channel Estimation Techniques for MIMO-OFDM Systems are reviewed for training
-	based channel estimation algorithms.
- 
-    PARAMETERS:
-	Spectral Efficiency, Channel State
-	information, Pilot Carriers,MMSE(Minimum Mean Squared Error)
-    
-    GRAPHS:
-	No Graph
+ 1.Channel Estimation Techniques in MIMO-OFDM LTE System
+    Author           :P.Venkateswarlu, R.Nagendhra
+    Journal          :Journal of Engineering research and Application
+    Parameters       :Spectral Efficiency, Channel State information, Pilot Carriers,MMSE(Minimum Mean Squared Error)
+    Findings         :
+		      1.In this paper, the basic concepts of OFDM, MIMO systems are addressed        
+		      2.The various channel estimation techniques such as training based, blind channel, semi-blind channel based algorithms are discussed. 
+		      Also different optimization techniques, such as DecisionDirected Channel Estimation Implementation for Spectral Efficiency Improvement in Mobile MIMOOFDM, 
+		      Adaptive Channel Estimation Techniques for MIMO-OFDM Systems are reviewed for training based channel estimation algorithms.
+    Graphs	     :
+	              No Graph
+2.Channel estimation for LTE downlink receiver System performance
+    Author	     :Prabhakaran N, Siva Kannan N, Dennilo Fernandes J, Thirugnanan G
+    Journal	     :International Journal of Engineering and Technology
+    Parameters	     :BER,Eb/N0
+    Findings	     :
+		      1.The performance of channel estimation techniques for LTEdownlink receiver system based on the 10/20MHz bandwidth are simulated in this model
+		      2.n AWGN channel performances is better as compared to VA120 channel then higher order modulation energy consumption is less as compare in lower order modulation.
+    Graphs	     :
+		      The graph is drawn between SNR(dB) and BER.
+    Advantages       :The high information rates and the high limit can be accomplished
+3.Comparision between performances of Channel estimation techniques for CP-LTE and ZP-LTE downlink systems
+    Author	     :Abdul Hakim khlifi, Ridha Bouallegue
+    Journal          :Internal Journal of computer networks and communications
+    Parameters       :LTE Bandwidth, Number of used subcarriers, Number of transmit antenna, Number of Receive antenna, Modulation scheme(QPSK), Channel Model
 
-    ADVANTAGES:
+    Findings         :
+		      In terms of MSE,channel estimation techniques in the two systems show same performances but only for lowSNR values. 
+	              For high SNR values, channel estimators are better for CP-LTE Downlink systems   
+    Graphs           :
+	              The graph is drawn between SNR and BER
+    Advantages       :ZP-LTE has higher power efficiency when compared to CP-LTE
+    Limitations      :Simulations results show that although ZP-LTE systems outperform CP-LTE Downlink systems in terms of power efficiency, 
+                      the CP-LTE systems show better performance than ZP-LTE systems and especially for high SNR values
 
-    LIMITATIONS:
-
-
-
-
-2.
-    TITLE:  
-	Channel estimation for LTE downlink receiver System performance
-    AUTHORS:
-                 Prabhakaran N, Siva Kannan N, Dennilo Fernandes J, Thirugnanan G
-    JOURNAL:
-	International Journal of Engineering and Technology
-    FINDINGS:
-	1.The performance of channel estimation techniques for LTEdownlink receiver system based on the 10/20MHz bandwidth are
-	simulated in this model2.n AWGN channel performances is better as compared
-	to VA120 channel then higher order modulation energy
-	consumption is less as compare in lower order modulation.
- 
-    PARAMETERS:
-	BER,Eb/N0
-
-    GRAPHS:
-	The graph is drawn between SNR(dB) and BER.
-    ADVANTAGES:
-	The high information rates and the high limit can be accomplished
-
-    LIMITATIONS:
-
-
-3.
-    TITLE:  
-	Comparision between performances of Channel estimation techniques for CP-LTE and ZP-LTE downlink systems
-    AUTHORS:
-                 Abdul Hakim khlifi, Ridha Bouallegue
-    JOURNAL:
-	Internal Journal of computer networks and communications
-    FINDINGS:
-	1.In terms of MSE,
-	channel estimation techniques in the two systems show same performances but only for low
-	SNR values. For high SNR values, channel estimators are better for CP-LTE Downlink systems
- 
-    PARAMETERS:
-	LTE Bandwidth, Number of used subcarriers, Number of transmit antenna, Number of Receive antenna, Modulation scheme(QPSK), Channel Model
-    
-    GRAPHS:
-	The graph is drawn between SNR and BER
-
-    ADVANTAGES:
-	ZP-LTE has higher power efficiency when compared to CP-LTE
-
-    LIMITATIONS:
-	Simulations results show that although ZP-LTE systems outperform CP-LTE Downlink systems in terms of power efficiency, the CP-LTE systems show better performance than ZP-LTE systems and especially for high SNR values
 
     HARIKA:
   1.TITLE:
