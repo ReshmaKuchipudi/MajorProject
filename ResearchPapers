@@ -44,36 +44,17 @@
                       NO GRAPH
    
    BHARGAVI:
- 1.
-    TITLE:  
-	Channel Estimation Techniques in MIMO-OFDM LTE System
-    AUTHORS:
-                 P.Venkateswarlu, R.Nagendhra
-    JOURNAL:
-	Journal of Engineering research and Application
-    FINDINGS:
-	1.In this paper, the basic concepts of OFDM, MIMO systems are addressed        
-	2.The various channel estimation techniques
-	such as training based, blind channel, semi-blind
-	channel based algorithms are discussed. Also
-	different optimization techniques, such as DecisionDirected Channel Estimation Implementation for
-	Spectral Efficiency Improvement in Mobile MIMOOFDM, Adaptive Channel Estimation Techniques for MIMO-OFDM Systems are reviewed for training
-	based channel estimation algorithms.
- 
-    PARAMETERS:
-	Spectral Efficiency, Channel State
-	information, Pilot Carriers,MMSE(Minimum Mean Squared Error)
-    
-    GRAPHS:
-	No Graph
-
-    ADVANTAGES:
-
-    LIMITATIONS:
-
-
-
-
+   
+1. Channel Estimation Techniques in MIMO-OFDM LTE System
+       Authors         : P.Venkateswarlu, R.Nagendhra
+       Journal         : Journal of Engineering research and Application
+       Findings        :
+			1.In this paper, the basic concepts of OFDM, MIMO systems are addressed        
+			2.The various channel estimation techniques such as training based, blind channel, semi-blind channel based algorithms are discussed. Also different 
+			optimization techniques, such as DecisionDirected Channel Estimation Implementation for Spectral Efficiency Improvement in Mobile MIMOOFDM, Adaptive 
+			Channel Estimation Techniques for MIMO-OFDM Systems are reviewed for training based channel estimation algorithms.
+       Parameters      : Spectral Efficiency, Channel State information, Pilot Carriers,MMSE(Minimum Mean Squared Error)
+       Graphs          : No Graph
 2.
     TITLE:  
 	Channel estimation for LTE downlink receiver System performance
@@ -93,11 +74,7 @@
     GRAPHS:
 	The graph is drawn between SNR(dB) and BER.
     ADVANTAGES:
-	The high information rates and the high limit can be accomplished
-
-    LIMITATIONS:
-
-
+	The high information rates and the high limit can be accomplished.
 3.
     TITLE:  
 	Comparision between performances of Channel estimation techniques for CP-LTE and ZP-LTE downlink systems
