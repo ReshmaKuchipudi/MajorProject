@@ -121,5 +121,48 @@
     LIMITATIONS:
 	Simulations results show that although ZP-LTE systems outperform CP-LTE Downlink systems in terms of power efficiency, the CP-LTE systems show better performance than ZP-LTE systems and especially for high SNR values
 
+    HARIKA:
+  1.TITLE:
+  	Channel Estimation for MIMO-OFDM Systems by Modal Analysis Filtering
+    AUTHOR:
+    	Marcello Cicerone,Osvaldo Simeone, Umberto Spagnolini
+    JOURNAL:
+    	Transactions on communications
+    FINDINGS:
+    	A lower bound for the channel-estimation error for MIMOOFDM systems has been derived, in order to assess to what extent LS channel estimation can be improved if 
+	knowledge about the multipath channel structure is taken into account in deriving the channel estimator.
+    PARAMETERS:
+    	Time variability,Bit-interleaved  coded,slow varying channel.
+    GRAPH:
+    	In this, the graph is drawn between SNR(dB) which is Signal-to-Noise Ratio and MSE(Mean Square Error) which represents the increasing 
+	SNR(dB) results in decreasing MSE.
+    ADVANTAGES:
+    	Reducing the number of parameters,the corresponding modal matrices  have reduced dimensions, as compared with the space–time modal, A very slow convergence.
+    LIMITATIONS:
+    	
+2.TITLE:
+	A MIMO-OFDM Channel Estimation Approach Using Time of Arrivals
+  AUTHOR:
+  	Z. Jane Wang, K.J.Ray Liu,Zhu Han
+  JOURNAL:
+  	Transactions on wireless communications
+  FINDINGS:
+  	The proposed TOA-based channel estimator incorporates the PDA and decision feedback methods to locate the path delays, with the number 
+	of paths determined via the MDL principle.
+  PARAMETERS:
+  	TOA channel estimation,CDMA modulation,OFDM channel estimation,probabilistic data association(PDA).
+  GRAPH:
+  	The graph is between SNR and MSE ehre freqyency of SNR and MSE increses proportionally.
+  ADVANTAGES:
+  	 Working within the regions that have good SNRs. 
+  LIMITATIONS:
+  	
+3.TITLE:
+	
+	
+
+
+
+
 
 
