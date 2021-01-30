@@ -52,7 +52,8 @@
     JOURNAL:
 	Journal of Engineering research and Application
     FINDINGS:
-	1.In this paper, the basic concepts of OFDM, MIMO systems are addressed        2.The various channel estimation techniques
+	1.In this paper, the basic concepts of OFDM, MIMO systems are addressed        
+	2.The various channel estimation techniques
 	such as training based, blind channel, semi-blind
 	channel based algorithms are discussed. Also
 	different optimization techniques, such as DecisionDirected Channel Estimation Implementation for
