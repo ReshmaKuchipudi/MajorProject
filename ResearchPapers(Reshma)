@@ -1,0 +1,44 @@
+1. Research on an Iterative Algorithm of LS Channel Estimation in MIMO OFDM Systems
+      Author         :  Yantao Qiao, Songyu Yu, Pengcheng Su, and Lijun Zhan
+      Journal        : Transactions on Broadcasting
+      Parameters     : AWGN, M transmit antennas, 1 receive antenna, SNR, ICI, MSE
+      FINDINGS       :
+                      •	Reduce AWGN and ICI significantly, this algorithm has improved the performance of MIMO OFDM systems in mobile communications.
+                      •	An iterative LS channel estimation algorithm for MIMO-OFDM systems was proposed.
+      GRAPHS          :
+                In this, the graph is drawn between SNR(dB) which is Signal-to-Noise Ratio and MSE(Mean Square Error) which represents the increasing SNR(dB) 
+                results in decreasing MSE.
+                
+2. A Channel Estimation Scheme for MIMO-OFDM SYSTEMS                
+      Author        : Chunlong He, Chu Tian, Xingquan Li, Ce Zhang, Shiqi Zhang, Chaowen Liu
+      Journal       : Journal of Physics
+      Parameters    : 2 transmitter antennas,2 receiver antennas,AWGN
+      Findings      :
+                    •	A reduced complexity channel estimation method is obtained for MIMO-OFDM system.
+                    •	The matrix inversion is avoided, significant complexity reduction is obtained while achieving an accurate frequency domain channel estimates.
+                    •	Compared with the time-domain LS estimator, better performance and low complexity can be obtained.
+      Graphs         :
+                    The graph is between SNR(dB) and BER(Bit Error Rate) where SNR(dB) increases   then     BER will be decreases.
+                    
+3.Channel Estimation for MIMO-OFDM Systems using LS and MSE Channel Estimation Techniques.
+      Author         : R. Jeya , B.Amutha , Roshni Patra , Rishav Ghosh
+      Journal        : International Journal of Advanced Science and Technologies
+      Parameters     : AWGN,QPSK,BPSK,QAM,SNR
+      Findings       :
+                     Minimum Mean Squared Error (MMSE) estimation, which while being more accurate, requires much more computational effort
+                     Least Squares Estimation Technique is an efficient method for channel estimation
+      Graphs         :
+                      1.The graph is between SNR and SER(Symbol Error rate) where SNR increases SER decreases.
+                      2.The graph is between SNR and MSE(Mean Squared Error) where SNR increases MSE decreases.
+                      3.The graph is between SNR and BER(Bit Error Rate) where SNR increases BEr decreases.
+ 
+ 4.Channel Estimation for OFDM
+      Author         :Yinsheng Liu, Zhenhui Tan, Hongjie Hu, Leonard J. Cimmini
+      Journal        :IEEE COMMUNICATION SURVEY
+      Parameters     :channel frequency response,Parametric model,low density parity check,canonical distribution
+      Findings       :
+                      the performance of OFDM system is verified with channel estimation and channel equalization over fading channels. There is significant 
+                      improvement in the performance of OFDM system using Weiner filter estimation.
+     Graphs          :
+                      NO GRAPH
+
