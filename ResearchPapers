@@ -44,17 +44,35 @@
                       NO GRAPH
    
    BHARGAVI:
-   
-1. Channel Estimation Techniques in MIMO-OFDM LTE System
-       Authors         : P.Venkateswarlu, R.Nagendhra
-       Journal         : Journal of Engineering research and Application
-       Findings        :
-			1.In this paper, the basic concepts of OFDM, MIMO systems are addressed        
-			2.The various channel estimation techniques such as training based, blind channel, semi-blind channel based algorithms are discussed. Also different 
-			optimization techniques, such as DecisionDirected Channel Estimation Implementation for Spectral Efficiency Improvement in Mobile MIMOOFDM, Adaptive 
-			Channel Estimation Techniques for MIMO-OFDM Systems are reviewed for training based channel estimation algorithms.
-       Parameters      : Spectral Efficiency, Channel State information, Pilot Carriers,MMSE(Minimum Mean Squared Error)
-       Graphs          : No Graph
+ 1.
+    TITLE:  
+	Channel Estimation Techniques in MIMO-OFDM LTE System
+    AUTHORS:
+                 P.Venkateswarlu, R.Nagendhra
+    JOURNAL:
+	Journal of Engineering research and Application
+    FINDINGS:
+	1.In this paper, the basic concepts of OFDM, MIMO systems are addressed        2.The various channel estimation techniques
+	such as training based, blind channel, semi-blind
+	channel based algorithms are discussed. Also
+	different optimization techniques, such as DecisionDirected Channel Estimation Implementation for
+	Spectral Efficiency Improvement in Mobile MIMOOFDM, Adaptive Channel Estimation Techniques for MIMO-OFDM Systems are reviewed for training
+	based channel estimation algorithms.
+ 
+    PARAMETERS:
+	Spectral Efficiency, Channel State
+	information, Pilot Carriers,MMSE(Minimum Mean Squared Error)
+    
+    GRAPHS:
+	No Graph
+
+    ADVANTAGES:
+
+    LIMITATIONS:
+
+
+
+
 2.
     TITLE:  
 	Channel estimation for LTE downlink receiver System performance
@@ -74,7 +92,11 @@
     GRAPHS:
 	The graph is drawn between SNR(dB) and BER.
     ADVANTAGES:
-	The high information rates and the high limit can be accomplished.
+	The high information rates and the high limit can be accomplished
+
+    LIMITATIONS:
+
+
 3.
     TITLE:  
 	Comparision between performances of Channel estimation techniques for CP-LTE and ZP-LTE downlink systems
@@ -136,6 +158,58 @@
   LIMITATIONS:
   	
 3.TITLE:
+	Research on the new channel estiamtion Algorithm for MIMO-OFDM system based on Training sequence
+  AUTHOR:
+  	Zhigang Yang
+  JOURNAL:
+  	Journal on Selected areas in communications
+  FINDINGS:
+  	1.MIMO technology and the combination of OFDM technology can complement each other so as to get a good antifading characteristics and high
+	spectral efficiency.
+	2.OFDM technology in the frequency domain channel will be divided into several sub-channel, spectrum overlap and improve 
+	the utilization of the spectrum, but also to selective fading into flat fading in nature3.MIMO technology can not only exponentially increase the 
+	system capacity fading channel but also can greatly improve the transmission efficiency of wireless communication 
+	systems, wireless channel bandwidth to resolve the issue of providing a new way.
+  PARAMETERS:
+  	Multipath fading,MIMO-OFDM channel estimation
+  GRAPH:
+  	No graph
+  ADVANTAGES:
+  	
+  LIMITATIONS:
+  
+4.TITLE:
+	Performance of Channel estimation and Equalization in OFDM System
+  AUTHOR:
+  	Dhere Vikas Bhimising, Dr.A.C Bhagali
+  JOURNAL:
+  	IEEE International Conference on Power Control Signal 
+  FINDINGS:
+  	The performance of OFDM system is verified with channel estimation and channel equalization over fading channels. 
+	There is significant improvement in the performance of OFDM system using Weiner filter estimation.
+  PARAMETERS:
+  	Weiner Filter,Frequency domain approach, DFT: Discrete Fourier Transform
+  GRAPH:
+  	The graph is between SNR and SER plotting to show  the Rayleigh channel isfound to give a better output corresponds to Rician channel.
+  ADVANTAGES:
+  LIMITATIONS:
+  
+5.TITLE:
+	Improved Pilot-Aided Channel Estimation for MIMO-OFDM Fading channels
+  AUTHOR:
+  	J.Mar, Chi-Cheng Kuo, M. B. Basnet
+  JOURNAL:
+  	Journal of Antennas and Propogation
+  FINDINGS:
+  	 It is demonstrated that the number of paths is scalable and adaptively changed with the characteristics of time-varying MIMO-OFDM fading channels to 
+	 provide a suboptimum BER performance for QAM modulated  SFBC-OFDM systems operated either in frequency nonselective fast fading or in frequency selective 
+	 fast fading channel.
+  PARAMETERS:
+  	QAM modulation,MSE channel frequency,MIMO_OFDM
+  GRAPH:
+  	 BER of the OFDM transceiver over two-ray Rayleigh fading channel and six-path fading channel with 13 sec delay spread.
+  	
+
 	
 	
 
