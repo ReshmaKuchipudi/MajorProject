@@ -6,3 +6,6 @@ References
 [3] R. Jeya , B.Amutha , Roshni Patra , Rishav Ghosh,"Channel Estimation for MIMO-OFDM Systems using LS and MSE Channel Estimation Techniques",
     International Journal of Advanced Science and Technologies,,2020.
 [4] Yinsheng Liu, Zhenhui Tan, Hongjie Hu, Leonard J. Cimmini,"Channel Estimation for OFDM",IEEE Communication Survey,2014.
+[5] P.Venkateswarlu, R.Nagendhra, "Channel Estimation Techniques in MIMO-OFDM LTE System",Journal of Engineering research and Application,2014.
+[6] Abdul Hakim khlifi, Ridha Bouallegue,"Comparision between performances of Channel estimation techniques for CP-LTE and ZP-LTE downlink systems",Internal Journal of computer networks and communications,2012.
+[7] Prabhakaran N, Siva Kannan N, Dennilo Fernandes J, Thirugnanan G,"Channel estimation for LTE downlink receiver System performance",International Journal of Engineering and Technology,2018.
