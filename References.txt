@@ -1,0 +1,8 @@
+References 
+[1] Yantao Qiao, Songyu Yu, Pengcheng Su, and Lijun Zhan, "Research on an Iterative Algorithm of LS Channel Estimation in MIMO OFDM Systems",
+    Transactions on Broadcasting Journal,2004.
+[2] Chunlong He, Chu Tian, Xingquan Li, Ce Zhang, Shiqi Zhang, Chaowen Liu, "A Channel Estimation Scheme for MIMO-OFDM SYSTEMS",
+    Journal of Physics,2017.
+[3] R. Jeya , B.Amutha , Roshni Patra , Rishav Ghosh,"Channel Estimation for MIMO-OFDM Systems using LS and MSE Channel Estimation Techniques",
+    International Journal of Advanced Science and Technologies,,2020.
+[4] Yinsheng Liu, Zhenhui Tan, Hongjie Hu, Leonard J. Cimmini,"Channel Estimation for OFDM",IEEE Communication Survey,2014.
