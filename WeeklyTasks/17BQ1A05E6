@@ -1,1 +1,30 @@
 
+Topic Name                                                                                              Status
+
+1.Matlab code for BER of BASK(OOK) modulation scheme under AWGN       ----------------------------> 
+
+2.Matlab code for BER of BPSK modulation scheme under AWGN            ---------------------------->
+
+3.Matlab code for plotting BER of BFSK under AWGN channel             ---------------------------->
+
+4.Matlab code to compare BER of various digital modulation schemes    ---------------------------->
+
+5.Matlab code to generate QPSK waveform for the given binary sequence ---------------------------->
+
+6.Matlab code for Differential Phase Shift Keying (DPSK)              ---------------------------->
+
+7.Matlab code for NRZ Unipolar, NRZ Polar, NRZ Bipolar and Manchester Line coding ---------------->
+
+8.Matlab code for Return-to-Zero (RZ) unipolar, polar and bipolar line coding  ------------------->
+
+9.Matlab code for Repetition codes (Hard Decision Decoding)                ----------------------->
+
+10.Matlab code for Repetition codes (Soft Decision Decoding)               ----------------------->
+
+11.Matlab code for PN sequence generation and verifying properties         ----------------------->
+
+12.Matlab code for Direct Sequence Spread Spectrum (DSSS) Signal Generation ---------------------->
+  
+13.Matlab code for Direct Sequence Spread Spectrum (DSSS) Receiver          ---------------------->
+
+
