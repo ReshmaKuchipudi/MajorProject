@@ -1,15 +1,27 @@
                                  NAME                                                                                                     Status
   1. Matlab Code to analyse constellation of QPSK and pi/4 QPSK                                                                        Not completed
+  
   2. MATLAB code to plot BER of QPSK under AWGN Channel                                                                                Not completed
+  
   3. MATLAB code to plot BER of QPSK under AWGN Channel (Method-II)                                                                    Not completed
+  
   4. MATLAB code to plot BER of QPSK under AWGN Channel (Method-III)                                                                   Not completed
+  
   5. MATLAB code to plot SER of QPSK under AWGN Channel                                                                                Not completed
+  
   6. MATLAB Code to analyse constellation of 8-PSK                                                                                     Not completed
+  
   7. MATLAB code to plot SER of 8-PSK under AWGN Channel-ML based Detection                                                            Not completed
+  
   8. MATLAB code to plot BER of 8-PSK under AWGN Channel-ML based Detection                                                            Not completed
+  
   9. MATLAB code to plot SER of 4-pulse Amplitude Modulation                                                                           Not completed
+  
   10. MATLAB code to plot BER of 4-pulse Amplitude Modulation                                                                          Not completed
+  
   11. MATLAB code to plot SER of 8-pulse Amplitude Modulation                                                                          Not completed
+  
   12. MATLAB code to plot BER of 8-pulse Amplitude Modulation                                                                          Not completed
+  
   13. MATLAB code to compare BER of various M-PAM schemes                                                                              Not completed
 
