@@ -1,30 +1,30 @@
 
 Topic Name                                                                                              Status
 
-1.Matlab code for BER of BASK(OOK) modulation scheme under AWGN       ----------------------------> 
+1.Matlab code for BER of BASK(OOK) modulation scheme under AWGN       ---------------------------->   yet to be completed
 
-2.Matlab code for BER of BPSK modulation scheme under AWGN            ---------------------------->
+2.Matlab code for BER of BPSK modulation scheme under AWGN            ---------------------------->   yet to be completed
 
-3.Matlab code for plotting BER of BFSK under AWGN channel             ---------------------------->
+3.Matlab code for plotting BER of BFSK under AWGN channel             ---------------------------->   yet to be completed
 
-4.Matlab code to compare BER of various digital modulation schemes    ---------------------------->
+4.Matlab code to compare BER of various digital modulation schemes    ---------------------------->   yet to be completed
 
-5.Matlab code to generate QPSK waveform for the given binary sequence ---------------------------->
+5.Matlab code to generate QPSK waveform for the given binary sequence ---------------------------->   yet to be completed
 
-6.Matlab code for Differential Phase Shift Keying (DPSK)              ---------------------------->
+6.Matlab code for Differential Phase Shift Keying (DPSK)              ---------------------------->   yet to be completed
 
-7.Matlab code for NRZ Unipolar, NRZ Polar, NRZ Bipolar and Manchester Line coding ---------------->
+7.Matlab code for NRZ Unipolar, NRZ Polar, NRZ Bipolar and Manchester Line coding ---------------->   yet to be completed
 
-8.Matlab code for Return-to-Zero (RZ) unipolar, polar and bipolar line coding  ------------------->
+8.Matlab code for Return-to-Zero (RZ) unipolar, polar and bipolar line coding  ------------------->   yet to be completed
 
-9.Matlab code for Repetition codes (Hard Decision Decoding)                ----------------------->
+9.Matlab code for Repetition codes (Hard Decision Decoding)                ----------------------->   yet to be completed
 
-10.Matlab code for Repetition codes (Soft Decision Decoding)               ----------------------->
+10.Matlab code for Repetition codes (Soft Decision Decoding)               ----------------------->   yet to be completed
 
-11.Matlab code for PN sequence generation and verifying properties         ----------------------->
+11.Matlab code for PN sequence generation and verifying properties         ----------------------->   yet to be completed
 
-12.Matlab code for Direct Sequence Spread Spectrum (DSSS) Signal Generation ---------------------->
+12.Matlab code for Direct Sequence Spread Spectrum (DSSS) Signal Generation ---------------------->   yet to be completed
   
-13.Matlab code for Direct Sequence Spread Spectrum (DSSS) Receiver          ---------------------->
+13.Matlab code for Direct Sequence Spread Spectrum (DSSS) Receiver          ---------------------->   yet to be completed
 
 
