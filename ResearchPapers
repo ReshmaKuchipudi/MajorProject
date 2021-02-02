@@ -75,8 +75,7 @@
 		      2.The various channel estimation techniques such as training based, blind channel, semi-blind channel based algorithms are discussed. 
 		      Also different optimization techniques, such as DecisionDirected Channel Estimation Implementation for Spectral Efficiency Improvement in Mobile MIMOOFDM, 
 		      Adaptive Channel Estimation Techniques for MIMO-OFDM Systems are reviewed for training based channel estimation algorithms.
-    Graphs	     :
-	              No Graph
+    
 8.Channel estimation for LTE downlink receiver System performance
     Author	     :Prabhakaran N, Siva Kannan N, Dennilo Fernandes J, Thirugnanan G
     Journal	     :International Journal of Engineering and Technology
@@ -140,11 +139,13 @@
 13.MIMO Channel Estimation Using the LS and MMSE Algorithm
     Author           :Mohammed Ali Mohammed MOQBEL1,Al-marhabi Zaid Ali
     Journal	     :IOSR Journal of Electronics and Communication Engineering (IOSR-JECE)
-    Parameters	     :
+    Parameters	     :QPSK Modulator/Demodulator
     Findings	     :
-    Graphs	     :
-    Advantages	     :
-    Limitations	     :
+    			1.SNR required to support different values of bit error rate varies depending on different low correlation between the transmitting and the receiving antennas
+			2.it is illustrated that when the number of transmitter and receiver antennas increases, the performance of TBCE schemes significantly improves
+			3.the performance is better for less order modulation technique as compared to high order modulation but in highorder modulation we have larger data rate.
+    Graphs	     :The Graph is drawn between SNRdB and BER wrt different antenna and different channel.
+    
     
     
     HARIKA:
