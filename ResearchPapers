@@ -118,11 +118,12 @@
 11.Different Types of Channel Estimation Techniques Used in MIMO-OFDM for Effective Communication Systems   
     Author           :Rakshit Govil
     Journal	     :International Journal of Engineering Research & Technology (IJERT)
-    Parameters	     :
+    Parameters	     : Data Symbols ,Number of Subcarriers ,OFDM Symbol Time
     Findings	     :
-    Graphs	     :
-    Advantages	     :
-    Limitations	     :
+    			1.The various channel estimation techniques such as training based,blind channel,semiblind channel based algoritms and their performance are also discussed.
+			2.Different optimization techniques such as particle swarm optimization,evolutionary programming is Reviewed to optimize LS & MMSE algorithms.
+    Advantages	     :good data transmission rate and its robustness against multipath fading & good spectral efficiency.
+   
    
 12.Performance Analysis of LS and LMMSE Channel Estimation Techniques for LTE Downlink Systems
     Author           :Abdelhakim Khlifi1 and Ridha Bouallegue
@@ -133,7 +134,7 @@
 			2.Computer simulations show that, in the case where the cyclic prefix is equal to or longer than the channel length,LMMSE performs better than LSE but at the cost of computational complexity
     Graphs	     :The Graph is drawn b/w SNRdB and BER.
     		      The Graph is drawn b/w SNRdB and MSE.
-    Advantages	     :
+    
     Limitations	     : LMMSE continue to improve its performance only for low SNR values but it degrades for high SNR values in which LS shows better performance for LTE Downlink systems
     
 13.MIMO Channel Estimation Using the LS and MMSE Algorithm
