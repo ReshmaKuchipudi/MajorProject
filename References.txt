@@ -17,13 +17,13 @@ References
     
 [7] P.Venkateswarlu, R.Nagendhra, "Channel Estimation Techniques in MIMO-OFDM LTE System",Journal of Engineering research and Application,2014.
 
-[8] Abdul Hakim khlifi, Ridha Bouallegue,"Comparision between performances of Channel estimation techniques for CP-LTE and ZP-LTE downlink systems",Internal Journal of computer        networks and communications,2012.
+[8] Abdul Hakim khlifi, Ridha Bouallegue,"Comparision between performances of Channel estimation techniques for CP-LTE and ZP-LTE downlink systems",Internal Journal of computer networks and communications,2012.
 
-[9] Prabhakaran N, Siva Kannan N, Dennilo Fernandes J, Thirugnanan G,"Channel estimation for LTE downlink receiver System performance",International Journal of Engineering and         Technology,2018.
+[9] Prabhakaran N, Siva Kannan N, Dennilo Fernandes J, Thirugnanan G,"Channel estimation for LTE downlink receiver System performance",International Journal of Engineering and Technology,2018.
 
-[10] Md. Masud Rana,Md. Kamal Hosain,"adaptive Channel Estimation Techniques for MIMO-OFDM Systems",(IJACSA) International Journal of Advanced Computer Science and                    Applications,2010.
+[10] Md. Masud Rana,Md. Kamal Hosain,"adaptive Channel Estimation Techniques for MIMO-OFDM Systems",(IJACSA) International Journal of Advanced Computer Science and pplications,2010.
 
-[11] Mohammed Ali Mohammed MOQBEL1,Al-marhabi Zaid Ali3, Hunan,"MIMO Channel Estimation Using the LS and MMSE Algorithm",IOSR Journal of Electronics and Communication                 Engineering (IOSR-JECE),2017.
+[11] Mohammed Ali Mohammed MOQBEL1,Al-marhabi Zaid Ali3, Hunan,"MIMO Channel Estimation Using the LS and MMSE Algorithm",IOSR Journal of Electronics and Communication         Engineering (IOSR-JECE),2017.
 
 [12] Abdelhakim Khlifi1 and Ridha Bouallegue, "Performance Analysis of LS and LMMSE Channel Estimation Techniques for LTE Downlink Systems",International Journal of Wireless & Mobile Networks (IJWMN),2011.
 
