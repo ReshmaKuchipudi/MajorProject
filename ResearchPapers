@@ -101,9 +101,41 @@
     Limitations      :Simulations results show that although ZP-LTE systems outperform CP-LTE Downlink systems in terms of power efficiency, 
                       the CP-LTE systems show better performance than ZP-LTE systems and especially for high SNR values
 
-
+10.Adaptive Channel Estimation Techniques for MIMO OFDM Systems
+    Journal	     :
+    Parameters	     :
+    Findings	     :
+    Graphs	     :
+    Advantages	     :
+    Limitations	     :
+    
+11.Different Types of Channel Estimation Techniques Used in MIMO-OFDM for Effective Communication Systems   
+    Journal	     :
+    Parameters	     :
+    Findings	     :
+    Graphs	     :
+    Advantages	     :
+    Limitations	     :
+   
+12.Performance Analysis of LS and LMMSE Channel Estimation Techniques for LTE Downlink Systems
+    Journal	     :
+    Parameters	     :
+    Findings	     :
+    Graphs	     :
+    Advantages	     :
+    Limitations	     :
+    
+13.MIMO Channel Estimation Using the LS and MMSE Algorithm
+    Journal	     :
+    Parameters	     :
+    Findings	     :
+    Graphs	     :
+    Advantages	     :
+    Limitations	     :
+    
+    
     HARIKA:
-10.Channel Estimation for MIMO-OFDM Systems by Modal Analysis Filtering
+14.Channel Estimation for MIMO-OFDM Systems by Modal Analysis Filtering
     Author	     :Marcello Cicerone,Osvaldo Simeone, Umberto Spagnolini
     Journal          :Transactions on communications
     Parameters       :Time variability,Bit-interleaved  coded,slow varying channel.
@@ -115,7 +147,7 @@
 		      SNR(dB) results in decreasing MSE.
     Advantages	     :
     		      Reducing the number of parameters,the corresponding modal matrices  have reduced dimensions, as compared with the space–time modal, A very slow convergence.    	
-11.A MIMO-OFDM Channel Estimation Approach Using Time of Arrivals
+15.A MIMO-OFDM Channel Estimation Approach Using Time of Arrivals
     Author           :Z. Jane Wang, K.J.Ray Liu,Zhu Han
     Journal          :Transactions on wireless communications
     Parameters       :TOA channel estimation,CDMA modulation,OFDM channel estimation,probabilistic data association(PDA).
@@ -126,7 +158,7 @@
   		      The graph is between SNR and MSE ehre freqyency of SNR and MSE increses proportionally.
     Advantages       :
   	 	      Working within the regions that have good SNRs.   	
-12.Research on the new channel estiamtion Algorithm for MIMO-OFDM system based on Training sequence
+16.Research on the new channel estiamtion Algorithm for MIMO-OFDM system based on Training sequence
     Author           :Zhigang Yang
     Journal	     :Journal on Selected areas in communications
     Parameters	     :Multipath fading,MIMO-OFDM channel estimation
@@ -139,7 +171,7 @@
 	              systems, wireless channel bandwidth to resolve the issue of providing a new way.
     Graph            :
   		      No graph
-13.Performance of Channel estimation and Equalization in OFDM System
+17.Performance of Channel estimation and Equalization in OFDM System
     Author           :Dhere Vikas Bhimising, Dr.A.C Bhagali
     Journal          :IEEE International Conference on Power Control Signal 
     Parameters       :Weiner Filter,Frequency domain approach, DFT: Discrete Fourier Transform
@@ -148,7 +180,7 @@
 	              2.There is significant improvement in the performance of OFDM system using Weiner filter estimation.
     Graph            :
   		      The graph is between SNR and SER plotting to show  the Rayleigh channel isfound to give a better output corresponds to Rician channel.
-14.Improved Pilot-Aided Channel Estimation for MIMO-OFDM Fading channels
+18.Improved Pilot-Aided Channel Estimation for MIMO-OFDM Fading channels
   Author             :J.Mar, Chi-Cheng Kuo, M. B. Basnet
   Journal            :Journal of Antennas and Propogation
   Parameters         :QAM modulation,MSE channel frequency,MIMO_OFDM
