@@ -9,8 +9,10 @@ References
 [5] P.Venkateswarlu, R.Nagendhra, "Channel Estimation Techniques in MIMO-OFDM LTE System",Journal of Engineering research and Application,2014.
 [6] Abdul Hakim khlifi, Ridha Bouallegue,"Comparision between performances of Channel estimation techniques for CP-LTE and ZP-LTE downlink systems",Internal Journal of computer networks and communications,2012.
 [7] Prabhakaran N, Siva Kannan N, Dennilo Fernandes J, Thirugnanan G,"Channel estimation for LTE downlink receiver System performance",International Journal of Engineering and Technology,2018.
-[8]Marcello Cicerone,Osvaldo Simeone, Umberto Spagnolini,"Channel Estimation for MIMO-OFDM Systems by Modal Analysis Filtering",Transactions on communications,2006.
-[9]Z. Jane Wang, K.J.Ray Liu,Zhu Han,"A MIMO-OFDM Channel Estimation Approach Using Time of Arrivals",Transactions on wireless communications,2005.
-[10]Zhigang Yang,"Research on the new channel estiamtion Algorithm for MIMO-OFDM system based on Training sequence",Journal on Selected areas in communications.
-[11]Dhere Vikas Bhimising, Dr.A.C Bhagali,"Performance of Channel estimation and Equalization in OFDM System",IEEE International Conference on Power Control Signal ,2017.
-[12]J.Mar, Chi-Cheng Kuo, M. B. Basnet,"Improved Pilot-Aided Channel Estimation for MIMO-OFDM Fading channels",Journal of Antennas and Propogation,2013.
+[8] Md. Masud Rana,Md. Kamal Hosain,"adaptive Channel Estimation Techniques for MIMO-OFDM Systems",(IJACSA) International Journal of Advanced Computer Science and Applications,2010.
+[9] Mohammed Ali Mohammed MOQBEL1,Al-marhabi Zaid Ali3, Hunan,"MIMO Channel Estimation Using the LS and MMSE Algorithm",IOSR Journal of Electronics and Communication Engineering (IOSR-JECE),2017.
+[10]Marcello Cicerone,Osvaldo Simeone, Umberto Spagnolini,"Channel Estimation for MIMO-OFDM Systems by Modal Analysis Filtering",Transactions on communications,2006.
+[11]Z. Jane Wang, K.J.Ray Liu,Zhu Han,"A MIMO-OFDM Channel Estimation Approach Using Time of Arrivals",Transactions on wireless communications,2005.
+[12]Zhigang Yang,"Research on the new channel estiamtion Algorithm for MIMO-OFDM system based on Training sequence",Journal on Selected areas in communications.
+[13]Dhere Vikas Bhimising, Dr.A.C Bhagali,"Performance of Channel estimation and Equalization in OFDM System",IEEE International Conference on Power Control Signal ,2017.
+[14]J.Mar, Chi-Cheng Kuo, M. B. Basnet,"Improved Pilot-Aided Channel Estimation for MIMO-OFDM Fading channels",Journal of Antennas and Propogation,2013.
