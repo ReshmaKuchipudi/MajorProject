@@ -1,2 +1,6 @@
-Task assigned to you before is pending and tasks a head are also no identified.
-Provide reasons.
+          Name                                                                         Status
+1.Matlab code to analyze constellation of 16-QAM.                                   Not completed
+2.Matlab code to plot SER of 16-QAM under AWGN channel-ML Based Detection.          Not completed
+3.Matlab code to plot BER of 16-QAM under AWGN channel -ML Based Detection.         Not completed
+4.Matlab code to compare BER of various M-QAM schemes.                              Not completed
+5.Understanding fundamentals of WIRELESS COMMUNICATION through MATLAB simulations.  Not completed
