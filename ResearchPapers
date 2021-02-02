@@ -104,11 +104,15 @@
 10.Adaptive Channel Estimation Techniques for MIMO OFDM Systems
     Author           :Md. Masud Rana,Md. Kamal Hosain
     Journal	     :(IJACSA) International Journal of Advanced Computer Science and pplications
-    Parameters	     :
+    Parameters	     :zero mean and variance, weight vector,complex symbol.
     Findings	     :
+    			NLMS and RLS adaptive channel estimator are described for MIMO OFDM systems.
+			Simulation results demonstrated that the RLS CE method has better performances compared NLMS CE method for MIMO OFDM systems.
+			the utilizing of more multiple antennas at the transmitter and/or receiver provides a much higher performance compared with fewer antennas
     Graphs	     :
-    Advantages	     :
-    Limitations	     :
+    			The Graph is drawn b/w Iteration number and MMSE under nXn MIMO-OFDM channel estimation.
+    Advantages       :This NLMS/RLS CE algorithm requires knowledge of the received signal only.
+    
     
 11.Different Types of Channel Estimation Techniques Used in MIMO-OFDM for Effective Communication Systems   
     Author           :Rakshit Govil
