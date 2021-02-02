@@ -93,8 +93,8 @@
     Parameters       :LTE Bandwidth, Number of used subcarriers, Number of transmit antenna, Number of Receive antenna, Modulation scheme(QPSK), Channel Model
 
     Findings         :
-		      In terms of MSE,channel estimation techniques in the two systems show same performances but only for lowSNR values. 
-	              For high SNR values, channel estimators are better for CP-LTE Downlink systems   
+		      1.In terms of MSE,channel estimation techniques in the two systems show same performances but only for lowSNR values. 
+	              2.For high SNR values, channel estimators are better for CP-LTE Downlink systems   
     Graphs           :
 	              The graph is drawn between SNR and BER
     Advantages       :ZP-LTE has higher power efficiency when compared to CP-LTE
@@ -106,12 +106,13 @@
     Journal	     :(IJACSA) International Journal of Advanced Computer Science and pplications
     Parameters	     :zero mean and variance, weight vector,complex symbol.
     Findings	     :
-    			NLMS and RLS adaptive channel estimator are described for MIMO OFDM systems.
-			Simulation results demonstrated that the RLS CE method has better performances compared NLMS CE method for MIMO OFDM systems.
-			the utilizing of more multiple antennas at the transmitter and/or receiver provides a much higher performance compared with fewer antennas
+    			1.NLMS and RLS adaptive channel estimator are described for MIMO OFDM systems.
+			2.Simulation results demonstrated that the RLS CE method has better performances compared NLMS CE method for MIMO OFDM systems.
+			3.The utilizing of more multiple antennas at the transmitter and/or receiver provides a much higher performance compared with fewer antennas
     Graphs	     :
     			The Graph is drawn b/w Iteration number and MMSE under nXn MIMO-OFDM channel estimation.
-    Advantages       :This NLMS/RLS CE algorithm requires knowledge of the received signal only.
+    Advantages       :
+    			This NLMS/RLS CE algorithm requires knowledge of the received signal only.
     
     
 11.Different Types of Channel Estimation Techniques Used in MIMO-OFDM for Effective Communication Systems   
@@ -126,11 +127,14 @@
 12.Performance Analysis of LS and LMMSE Channel Estimation Techniques for LTE Downlink Systems
     Author           :Abdelhakim Khlifi1 and Ridha Bouallegue
     Journal	     :International Journal of Wireless & Mobile Networks (IJWMN)
-    Parameters	     :
+    Parameters	     :LS ,LMMSE ,Transmission Bandwitdh,Sub-frame duration.
     Findings	     :
-    Graphs	     :
+    			1.Both inter-carrier interference (ICI) and inter-symbol interference (ISI).
+			2.Computer simulations show that, in the case where the cyclic prefix is equal to or longer than the channel length,LMMSE performs better than LSE but at the cost of computational complexity
+    Graphs	     :The Graph is drawn b/w SNRdB and BER.
+    		      The Graph is drawn b/w SNRdB and MSE.
     Advantages	     :
-    Limitations	     :
+    Limitations	     : LMMSE continue to improve its performance only for low SNR values but it degrades for high SNR values in which LS shows better performance for LTE Downlink systems
     
 13.MIMO Channel Estimation Using the LS and MMSE Algorithm
     Author           :Mohammed Ali Mohammed MOQBEL1,Al-marhabi Zaid Ali
