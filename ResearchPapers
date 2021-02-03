@@ -136,6 +136,9 @@
     
     Limitations	     : LMMSE continue to improve its performance only for low SNR values but it degrades for high SNR values in which LS shows better performance for LTE Downlink systems
     
+    
+    Missing the literature survey by Sai Krishna
+    
 13.MIMO Channel Estimation Using the LS and MMSE Algorithm
     Author           :Mohammed Ali Mohammed MOQBEL1,Al-marhabi Zaid Ali
     Journal	     :IOSR Journal of Electronics and Communication Engineering (IOSR-JECE)
