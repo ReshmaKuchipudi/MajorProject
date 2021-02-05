@@ -207,9 +207,14 @@
 	              fast fading channel.
   Graph              :
   	 	      BER of the OFDM transceiver over two-ray Rayleigh fading channel and six-path fading channel with 13 sec delay spread.
+		      
   	
-
-	
+sai krishna:
+19.Channel Estimation for OFDM Transmission in Multipath Fading Channels Based on Parametric Channel Modeling
+     Author        :Baoguo Yang
+     Journal       :IEEE transactions on Communications
+     parameters    :SNRdB,MSE,SD,path time delay
+     Graph         :The graph os drawn between average SNRdB and MSE
 	
 
 
