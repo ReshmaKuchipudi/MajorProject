@@ -1,39 +1,66 @@
-%BER of BPSK modulation under AWGN channel
-%Generate Random input bits
-N=10000000;%data size
-x=randi([0 1],1,N);% random input bits
-%BPSK Mapping
-%bit 1-->1 and bit 0-->-1
-for i=1:N
-    if x(i)==0
-        m(i)=-1;
+clear all;close all;
+N=10;
+disp('Input message sequence')
+n=randi([0,1],1,N)%input 
+
+for i1=1:N
+    if n(i1)==1;
+        nn(i1)=1;
     else
-        m(i)=1;  
+        nn(i1)=-1;
+    end
+    
+end
+%signal
+s=100;
+i=1;
+t=0:1/s:N;
+for j=1:length(t)
+    if t(j)<=i;
+        m(j)=nn(i);
+    else
+        m(j)=nn(i);
+        i=i+1;
     end
 end
-%plot(m);
-%AWGN Channel
-%n=mean+sd.*randn(1,10000)
-ber_sim=[];
-ber_the=[];
-for EbN0dB=0:2:10
-    SNR=10^(EbN0dB/10);
-    n=sqrt(1/(2*SNR))*randn(1,N); %AWGN
-    r=m+n;
-    for i=1:N
-        if r(i)>0
-            m_cap(i)=1;
-        else
-            m_cap(i)=0;
-        end
-    end
-    ber1=sum((x~=m_cap))/N;
-    ber_sim=[ber_sim ber1];
-    ber_the=[ber_the 0.5*erfc(sqrt(SNR))];
+
+%plotting
+subplot(411);
+plot(t,m,'k-');
+xlabel('Time');
+ylabel('Amplitude');
+title('NRZ Polar Signal');
+
+%carier
+c=cos(2*pi*2*t);
+subplot(412);
+plot(t,c,'k-');
+xlabel('Time');
+ylabel('Amplitude');
+title('carrier signal');
+% BPSK modulation
+x=m.*c;
+subplot(413);
+plot(t,x,'k-');
+xlabel('Time');
+ylabel('Amplitude');
+title('BPSK Signal');
+%coherent detection
+y=x;
+y1=y.*c;%product modulator
+subplot(414);
+plot(t,y1,'k-');
+
+%integration o/p
+%k=1/s:1/s:1;
+int_op=[];
+for ii=0:s:length(y1)-s;
+    int_o=(1/s)*trapz(y1(ii+1:ii+s));
+    int_op=[int_op int_o];
 end
-EbN0dB=0:2:10;
-%graph drawn between Eb/N0dB and BER w.rt to simulation represents in Red color and with respect to theory in green color 
-semilogy(EbN0dB,ber_sim,'ro-',EbN0dB,ber_the,'g+-');
-xlabel("Eb/N0dB");
-ylabel("BER");
-legend("Simulation","Theory");
+%hard-decision decoding
+disp('Detected bits:')
+det=(round(int_op,1)>=0.5)
+%BER Computation
+ber=sum(n~=det)/N
+
