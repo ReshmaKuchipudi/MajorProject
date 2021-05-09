@@ -8,3 +8,12 @@ Further enhancement can be achieved through space time block coding (STBC) and o
 time block coding (OSTBC) at transmission and receiver ends. The estimation of channel at pilot 
 frequencies is conventional with MMSE estimation algorithm through MATLAB simulation. OSTBC 
 shows better performance than the STBC for the MIMO-OFDM system. 
+
+PROJECT GUIDE
+(Mr. K. Suresh Babu)
+                                                                 BATCH NUMBER:C11
+								                                                 Reshma Kuchipudi – 17BQ1A05C1
+								                                                 Bhargavi Mokharala – 17BQ1A05E6
+								                                                 Harika Manduva – 17BQ1A05D7
+								                                                 Sai Krishna Motupalli -17BQ1A05E7
+
