@@ -1,0 +1,10 @@
+                           MIMO-OFDM Channel Estimation
+
+A multiple-input multiple-output (MIMO) communication system combined with orthogonal frequency 
+division multiplexing (OFDM) modulation can achieve reliable high data rate transmission over 
+wireless channels. Channel state information for MIMO based on pilot aided arrangement is 
+investigated. The performance of MIMO-OFDM is evaluated on basis of bit-error rate (BER). 
+Further enhancement can be achieved through space time block coding (STBC) and orthogonal space 
+time block coding (OSTBC) at transmission and receiver ends. The estimation of channel at pilot 
+frequencies is conventional with MMSE estimation algorithm through MATLAB simulation. OSTBC 
+shows better performance than the STBC for the MIMO-OFDM system. 
